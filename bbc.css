@@ -1,0 +1,254 @@
+#topbar
+{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #FFFF;
+    height: 60px;
+}
+#logo
+{
+    height: 30px;
+    position: fixed;
+    left: 135px;
+    margin-top: 15px;
+}
+#signin
+{
+    position: fixed;
+    left: 250px;
+    width: 150px;
+    margin-top: 5px;
+}
+.buttons
+{
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+       
+}
+#bton1
+{
+    left: 440px;
+    margin: 20px;
+}
+#bton2
+{
+    left: 560px;
+    margin: 20px;
+}
+#bton3
+{
+    left: 670px;
+    margin: 20px;
+}
+#bton4
+{
+    left: 780px;
+    margin: 20px;
+}
+#bton5
+{
+    left: 890px;
+    margin: 20px;
+}
+#bton6
+{
+    left: 1000px;
+    margin: 20px;
+}
+#bton7
+{
+    left: 1110px;
+    margin: 20px;
+}
+#bton8
+{
+    left: 1220px;
+    margin: 20px;
+}
+#search
+{
+    left: 1300px;
+    margin:18px;
+}
+#Newsbar
+{
+    background-color: #B80000;
+    width: 1510px;
+    height: 90px;
+    margin: 0 auto;
+    position: absolute;
+}
+#headi
+{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    font-size: 20px;    
+    position: fixed;
+    left:135px;
+    margin-top: -20px;
+}   
+.Newsbuttons 
+{
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    margin-top: 65px;
+}
+#nb1
+{
+    left: 135px;
+}
+#nb2
+{
+    left: 200px;
+}
+#nb3
+{
+    left: 320px;
+}
+#nb4
+{
+    left: 430px;
+}
+#nb5
+{
+    left: 520px;
+}
+#nb6
+{
+    left: 590px;
+}
+#nb7
+{
+    left: 630px;
+}
+#nb8
+{
+    left: 690px;
+}
+#nb9
+{
+    left: 740px;
+}
+#nb10
+{
+    left: 840px;
+}
+#nb11
+{
+    left: 910px;
+}
+#nb12
+{
+    left: 990px;
+}
+#nb13
+{
+    left: 1060px;
+}
+#nb14
+{
+    left: 1220px;
+}
+#nb15
+{
+    left: 1290px;
+}
+.mbh a
+{
+    position: fixed
+}
+.SR h2
+{
+    color: #464040;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 100px;
+    left: 135px;
+}
+.Adv img
+{ 
+    margin-top: 200px;
+    position: absolute;
+    left: 300px;
+}
+.disability img 
+{
+    position: relative;
+    margin-top: 550px;
+    left:135px;
+    width: 616px;
+    height: 349px;
+}
+#he h3
+{
+    text-decoration: none;
+    margin-left: 766px;
+    margin-top: -350px;
+    color: grey;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;   
+    text-decoration: underline
+} 
+#ad
+{
+    position: absolute;
+    left: 1084px;
+    margin-top: -110px;
+}
+#adf
+{
+    position: absolute;
+    left: 770px;
+    text-decoration: none;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+}
+.imj 
+{
+    position: absolute;
+    margin-top: 250px;
+    height: 169px;
+    width: 300px;   
+}
+#im1
+{
+    left: 136px;
+}
+#im2
+{
+    left: 456px;
+}
+#im3
+{
+    left: 769px;
+}
+#red
+{
+    margin-top: 300px;
+    position: absolute;
+    left: 136px;
+}
+#r
+{
+    margin-top: 360px;
+}
+.cim
+{
+   position: absolute;
+   height: 134px;
+   width: 228px;
+}
+#id{
+    left: 136px;
+}
+#id2
+{
+    text-decoration: none;
+    
+}
